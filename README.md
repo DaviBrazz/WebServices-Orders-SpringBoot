@@ -1,7 +1,7 @@
 
 # Sobre o projeto
 
-Projeto de Web service que consiste em realizar as operações CRUD para as classes de Produtos e Usuários por meio de endpoints utilizando o framework Spring Boot.
+Projeto de Web services que consiste em realizar as operações CRUD para as classes de Produtos, Usuários, Pedidos, Categoria por meio de endpoints, fazendo também a associação entre as classes no banco relacional H2 utilizando o framework Spring Boot.
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/DaviBrazz/assets/blob/main/images/WebServices-java-springboot/modelo-conceitual-spring.png)
